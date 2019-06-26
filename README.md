@@ -1,0 +1,7 @@
+# Kaggle-Competitions
+Open the folders above to find the notebooks and codes
+Kaggle is an online community of data scientists and machine learners, owned by Google LLC. Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. Kaggle got its start by offering machine learning competitions and now also offers a public data platform, a cloud-based workbench for data science, and short form AI education.
+
+[Visit Kaggle Page](https://www.kaggle.com/)
+
+![Kaggle](https://user-images.githubusercontent.com/45607797/60176871-e7973300-97ed-11e9-82b7-d0a79260f163.png)

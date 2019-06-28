@@ -16,7 +16,7 @@
 ## Competition:
 [Kaggle Competition: Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-![titanic](https://user-images.githubusercontent.com/45607797/60364106-c3894c80-99bb-11e9-883b-7c02a4bcb872.jpg)(https://www.kaggle.com/c/titanic)
+<![titanic](https://user-images.githubusercontent.com/45607797/60364106-c3894c80-99bb-11e9-883b-7c02a4bcb872.jpg)>(https://www.kaggle.com/c/titanic)
 
 ## Kaggle Score
 ![score 0 76555](https://user-images.githubusercontent.com/45607797/60364133-d6038600-99bb-11e9-8da2-e45819743a0e.jpg)

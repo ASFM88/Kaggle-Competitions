@@ -1,4 +1,4 @@
-# Santander Customer Transaction Prediction
+# Titanic: Machine Learning from Disaster
 
 ## Autor
 ### André Spina França Machado
@@ -14,9 +14,9 @@
 
 
 ## Competition:
-[Kaggle Competition: Santander Customer Transaction Prediction](https://www.kaggle.com/c/santander-customer-transaction-prediction/)
+[Kaggle Competition: Titanic Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
-[<img src = https://storage.googleapis.com/kaggle-media/competitions/santander/atm_image.png width=600>](https://www.kaggle.com/c/santander-customer-transaction-prediction/)
+![titanic](https://user-images.githubusercontent.com/45607797/60364106-c3894c80-99bb-11e9-883b-7c02a4bcb872.jpg)(https://www.kaggle.com/c/titanic)
 
 ## Kaggle Score
-<img width="600" alt="KAGGLE_SCORE" src="https://user-images.githubusercontent.com/45607797/60190079-69945580-9808-11e9-8739-3ecdff2e6ccc.png">
+![score 0 76555](https://user-images.githubusercontent.com/45607797/60364133-d6038600-99bb-11e9-8da2-e45819743a0e.jpg)
